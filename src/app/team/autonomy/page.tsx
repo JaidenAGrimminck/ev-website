@@ -8,32 +8,18 @@ import Footer from '@/components/Footer'
 // Autonomy team data
 const autonomyTeam = [
   {
-    name: 'Erica Jiang',
+    name: 'Lucas Libshutz',
     position: 'Autonomy Lead',
-    major: 'ECE',
-    year: '2028',
-    image: '/team/erica-jiang.png'
-  },
-  {
-    name: 'Sidharth Rao',
-    position: 'Autonomy Lead',
-    major: 'CS/ECE',
+    major: 'MAE',
     year: '2027',
-    image: '/team/sidharth-rao.jpg'
+    image: '/team/lucas-libshutz.jpg'
   },
   {
-    name: 'Eric Marchetti',
-    position: 'Autonomy Member',
-    major: 'CS',
-    year: '2026',
-    image: '/team/eric-marchetti.jpg'
-  },
-  {
-    name: 'Zachary Chosed',
-    position: 'Autonomy Member',
-    major: 'CS',
-    year: '2025',
-    image: '/team/zachary-chosed.jpg'
+    name: 'Cam Mazzacane',
+    position: 'Autonomy Lead',
+    major: 'CS/Math',
+    year: '2028',
+    image: '/team/cam-mazzacane.jpg'
   },
   {
     name: 'Sophia Tsang',
@@ -43,25 +29,11 @@ const autonomyTeam = [
     image: '/team/sophia-tsang.jpg'
   },
   {
-    name: 'Myles Pasetsky',
-    position: 'Autonomy Member',
-    major: 'ECE',
-    year: '2027',
-    image: '/team/myles-pasetsky.jpg'
-  },
-  {
     name: 'Utku Melemetci',
     position: 'Autonomy Member',
     major: 'CS',
     year: '2027',
     image: '/team/utku-melemetci.jpg'
-  },
-  {
-    name: 'Zephan Sanghani',
-    position: 'Autonomy Member',
-    major: 'CS',
-    year: '2027',
-    image: '/team/zephan-sanghani.jpg'
   },
   {
     name: 'Sameer Mehta',
@@ -71,20 +43,6 @@ const autonomyTeam = [
     image: '/team/sameer-mehta.jpg'
   },
   {
-    name: 'Jason Klein',
-    position: 'Autonomy Member/Advisor',
-    major: 'CS',
-    year: '2026',
-    image: '/team/jason-klein.jpg'
-  },
-  {
-    name: 'Jess Wang',
-    position: 'Autonomy Member',
-    major: 'CS',
-    year: '2028',
-    image: '/team/jess-wang.jpg'
-  },
-  {
     name: 'Ibrahim Ahmed',
     position: 'Autonomy Member',
     major: 'ECE/CS',
@@ -92,12 +50,61 @@ const autonomyTeam = [
     image: '/team/ibrahim-ahmed.jpg'
   },
   {
-    name: 'Cam Mazzacane',
+    name: 'Ethan Berkowitz',
     position: 'Autonomy Member',
-    major: 'CS/Math',
-    year: '2028',
-    image: '/team/cam-mazzacane.jpg'
-  }
+    major: 'ECE/CS',
+    year: '2029',
+    image: '/team/placeholder.svg'
+  },
+  {
+    name: 'Ishaan Parikh',
+    position: 'Autonomy Member',
+    major: 'ECE',
+    year: '2029',
+    image: '/team/placeholder.svg'
+  },
+  {
+    name: 'Jaiden Grimminck',
+    position: 'Autonomy Member',
+    major: 'CS',
+    year: '2029',
+    image: '/team/placeholder.svg'
+  },
+  {
+    name: 'Joyce Lin',
+    position: 'Autonomy Member',
+    major: 'CS/ECE',
+    year: '2029',
+    image: '/team/placeholder.svg'
+  },
+  {
+    name: 'Smriti Kumar',
+    position: 'Autonomy Member',
+    major: 'CS/ECE',
+    year: '2029',
+    image: '/team/placeholder.svg'
+  },
+  {
+    name: 'Surya Chandaskaran',
+    position: 'Autonomy Member',
+    major: 'CS/ORIE',
+    year: '2029',
+    image: '/team/placeholder.svg'
+  },
+  {
+    name: 'Thomas Xin',
+    position: 'Autonomy Member',
+    major: 'CS/ECE',
+    year: '2029',
+    image: '/team/placeholder.svg'
+  },
+  {
+    name: 'Sidharth Rao',
+    position: 'Autonomy Advisor',
+    major: 'CS/ECE',
+    year: '2027',
+    image: '/team/sidharth-rao.jpg'
+  },
 ]
 
 // Team member card component

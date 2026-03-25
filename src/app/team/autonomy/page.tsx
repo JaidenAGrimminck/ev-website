@@ -170,12 +170,12 @@ export default function AutonomyTeam() {
               <div className="text-gray-300">Autonomy Target</div>
             </div>
             <div>
-              <div className="text-3xl font-bold text-red-400 mb-2">AI/ML</div>
+              <div className="text-3xl font-bold text-red-400 mb-2">Localization, Planning, Control, Perception</div>
               <div className="text-gray-300">Core Technologies</div>
             </div>
             <div>
-              <div className="text-3xl font-bold text-red-400 mb-2">Vision</div>
-              <div className="text-gray-300">Primary Sensor</div>
+              <div className="text-3xl font-bold text-red-400 mb-2">LiDAR, IMU, Stereo Camera</div>
+              <div className="text-gray-300">Primary Sensors</div>
             </div>
           </div>
         </div>
